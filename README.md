@@ -1,5 +1,5 @@
-<p align="center">![01](https://user-images.githubusercontent.com/5403801/131281280-7e051c46-7118-4c37-b7de-46ab416fb7e7.jpg)
-</p>
+![01](https://user-images.githubusercontent.com/5403801/131281280-7e051c46-7118-4c37-b7de-46ab416fb7e7.jpg)
+
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
